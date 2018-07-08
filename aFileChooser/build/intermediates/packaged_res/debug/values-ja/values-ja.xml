@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_file">ファイルを選択</string>
+    <string name="empty_directory">空のディレクトリ</string>
+    <string name="error_selecting_file">ファイルの選択時にエラー</string>
+    <string name="internal_storage">内部ストレージ</string>
+    <string name="storage_removed">ストレージが削除されたか、アンマウントされました。</string>
+</resources>

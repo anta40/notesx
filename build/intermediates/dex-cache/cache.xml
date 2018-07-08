@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Seadro\.gradle\caches\modules-2\files-2.1\commons-codec\commons-codec\1.10\4b95f4897fa13f2cd904aee711aeafc0c5295cd8\commons-codec-1.10.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b95f4897fa13f2cd904aee711aeafc0c5295cd8">
+        <dex dex="C:\Users\Seadro\Desktop\Desktop\sealnote-master\sealnote-master\Sealnote\build\intermediates\pre-dexed\debug\commons-codec-1.10_572d875a3732b6d01ce334a6ea577df47eca8723.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Seadro\.android\build-cache\2fd8d21879ff289361a36cb0375f942a63488e10\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd59f15631a0446653bc4197a9afd6ee63eef42d">
+        <dex dex="C:\Users\Seadro\Desktop\Desktop\sealnote-master\sealnote-master\Sealnote\build\intermediates\pre-dexed\debug\classes_b15c66f0b4c5058e7e328f29a8e35f7a0fb09fba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\notesx-master\aFileChooser\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="46bf18c54eb56cb054873bc028b6abdf73498e94">
+        <dex dex="E:\Android\notesx-master\NotesX\build\intermediates\pre-dexed\debug\classes_6c9d07113d0ccb61fbd391161cdc0b67b16112e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Seadro\.android\build-cache\d9a6caabec49083cdaea94d226086f630018aae1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Seadro\Desktop\Desktop\sealnote-master\sealnote-master\Sealnote\build\intermediates\pre-dexed\debug\classes_8643c5eb53943094032b01c32cb40608dfd147f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Seadro\.gradle\caches\modules-2\files-2.1\com.nhaarman.listviewanimations\library\2.6.0\59351ccb0a1631d30358f6a92749a072f2df7602\library-2.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="59351ccb0a1631d30358f6a92749a072f2df7602">
+        <dex dex="C:\Users\Seadro\Desktop\Desktop\sealnote-master\sealnote-master\Sealnote\build\intermediates\pre-dexed\debug\library-2.6.0_05baa29afb8fe383decdd4eaf879db4d1a3dd844.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Seadro\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\Seadro\Desktop\Desktop\sealnote-master\sealnote-master\Sealnote\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_773bd4bc88b7a1c295b4dc198472b3f27370ba4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Seadro\.android\build-cache\1834582d9525029aea809343cb456a2f337c81e1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="589fdaab008936a7b90e8332bbd49b4c010b8c0c">
+        <dex dex="C:\Users\Seadro\Desktop\Desktop\sealnote-master\sealnote-master\Sealnote\build\intermediates\pre-dexed\debug\classes_938b2154f4f4230fe0985b67e13e09b9638223a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Seadro\.android\build-cache\86fbf0a99d22d383a87d35e71ab33e83abdda50a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\Seadro\Desktop\Desktop\sealnote-master\sealnote-master\Sealnote\build\intermediates\pre-dexed\debug\classes_9086cb4718cfb0ce3fb6e00d92e5bee1a76d85ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Seadro\Desktop\Desktop\sealnote-master\sealnote-master\aFileChooser\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="212335faa181147f339e89717947cbd971400f7c">
+        <dex dex="C:\Users\Seadro\Desktop\Desktop\sealnote-master\sealnote-master\Sealnote\build\intermediates\pre-dexed\debug\classes_ffd24347cc41b52e3dc1efca137bfe916e4890d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Seadro\.android\build-cache\aca7b98f264a17748d01c876df89f9871a800d54\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\Seadro\Desktop\Desktop\sealnote-master\sealnote-master\Sealnote\build\intermediates\pre-dexed\debug\classes_8126720c464846893e6f687c98c53db510a08751.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Seadro\.android\build-cache\7119ed6865ac1d69e5130e198517f9905ea9b906\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a4596e7120d868856e75d96a74acf7f633775060">
+        <dex dex="C:\Users\Seadro\Desktop\Desktop\sealnote-master\sealnote-master\Sealnote\build\intermediates\pre-dexed\debug\classes_c6238b0aa1ccd3f468fd8101e7d1c31d4023f807.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Seadro\.android\build-cache\36b8623bb0b73ff8982f14168e288266ce9fdf1d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c527644b9b6b554fb438dd185d9b5cdee19e0008">
+        <dex dex="C:\Users\Seadro\Desktop\Desktop\sealnote-master\sealnote-master\Sealnote\build\intermediates\pre-dexed\debug\classes_89f262c8cabdb6ce19a6007cdedb3a613b78d7be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Seadro\.android\build-cache\f0e4d98b62878eb4489a59e9c0ee68127db690a6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\Seadro\Desktop\Desktop\sealnote-master\sealnote-master\Sealnote\build\intermediates\pre-dexed\debug\classes_ce45b80fcf2be279f9e90d6f3bddf1c801ea27d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Seadro\.android\build-cache\21c8e31ed2f5e84c92bba55f93f5b2eb184bb1eb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\Seadro\Desktop\Desktop\sealnote-master\sealnote-master\Sealnote\build\intermediates\pre-dexed\debug\classes_2fe37657e88a8e6fc3071ed15ce4cc8f8761ab0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Seadro\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\Seadro\Desktop\Desktop\sealnote-master\sealnote-master\Sealnote\build\intermediates\pre-dexed\debug\library-2.4.0_3b8e9ee7052681c25ba8f2aacb282e30dbc7d123.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Seadro\.android\build-cache\fb5ca274ca425380dff6864ed31ef9b62509f93e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\Seadro\Desktop\Desktop\sealnote-master\sealnote-master\Sealnote\build\intermediates\pre-dexed\debug\classes_b0e9c294125e22823123e7ec4b9e6d6f9da7c2ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Seadro\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\r09\9c8991d491d714053d300de0f8657d95780ff923\guava-r09.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c8991d491d714053d300de0f8657d95780ff923">
+        <dex dex="C:\Users\Seadro\Desktop\Desktop\sealnote-master\sealnote-master\Sealnote\build\intermediates\pre-dexed\debug\guava-r09_830a9eda20e17000e898d8c2f660b35311be795d.jar" />
+    </item>
+
+</items>

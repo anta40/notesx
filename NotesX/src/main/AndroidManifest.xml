@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.seadro.notesx">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+            android:icon="@drawable/ic_launcher"
+            android:label="@string/app_name"
+            android:theme="@style/NotesX.Theme.Main"
+            android:name=".NotesXApplication">
+        <activity
+                android:name="com.seadro.notesx.NotesXActivity"
+                android:label="@string/app_name"
+                android:theme="@style/NotesX.Theme.Note">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity
+                android:name="com.seadro.notesx.NoteActivity"
+                android:label="@string/title_activity_note"
+                android:parentActivityName="com.seadro.notesx.NotesXActivity"
+                android:theme="@style/NotesX.Theme.Main">
+            <meta-data
+                    android:name="android.support.PARENT_ACTIVITY"
+                    android:value="com.seadro.notesx.NotesXActivity"/>
+        </activity>
+        <activity
+                android:name="com.seadro.notesx.PasswordActivity"
+                android:label="@string/title_activity_note"
+                android:theme="@android:style/Theme.Holo.Light.NoActionBar">
+        </activity>
+        <activity
+                android:name="com.seadro.notesx.SettingsActivity"
+                android:label="@string/title_activity_settings"
+                android:parentActivityName="com.seadro.notesx.NotesXActivity"
+                android:theme="@style/NotesX.Theme.Main">
+            <meta-data
+                    android:name="android.support.PARENT_ACTIVITY"
+                    android:value="com.seadro.notesx.NotesXActivity"/>
+        </activity>
+        <activity
+                android:name="com.seadro.notesx.TagsEditorActivity"
+                android:label="@string/title_activity_edit_tags"
+                android:parentActivityName="com.seadro.notesx.NotesXActivity"
+                android:theme="@style/NotesX.Theme.Main">
+            <meta-data
+                    android:name="android.support.PARENT_ACTIVITY"
+                    android:value="com.seadro.notesx.NotesXActivity"/>
+        </activity>
+
+
+            <meta-data
+                    android:name="android.support.PARENT_ACTIVITY"
+                    android:value="com.seadro.notesx.SettingsActivity"/>
+
+        <activity
+                android:name="com.seadro.notesx.BackupActivity"
+                android:parentActivityName="com.seadro.notesx.SettingsActivity"
+                android:theme="@style/NotesX.Theme.Main"
+                android:label="@string/backup">
+            <meta-data
+                    android:name="android.support.PARENT_ACTIVITY"
+                    android:value="com.seadro.notesx.SettingsActivity"/>
+        </activity>
+
+        <activity
+                android:name="com.seadro.notesx.RestoreActivity"
+                android:parentActivityName="com.seadro.notesx.SettingsActivity"
+                android:theme="@style/NotesX.Theme.Main"
+                android:label="@string/restore">
+            <meta-data
+                    android:name="android.support.PARENT_ACTIVITY"
+                    android:value="com.seadro.notesx.SettingsActivity"/>
+        </activity>
+
+        <activity
+                android:name="com.ipaulpro.afilechooser.FileChooserActivity"
+                android:icon="@drawable/ic_chooser"
+                android:enabled="@bool/use_activity"
+                android:exported="true"
+                android:label="@string/choose_file" >
+            <intent-filter>
+                <action android:name="android.intent.action.GET_CONTENT" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.OPENABLE" />
+
+                <data android:mimeType="*/*" />
+            </intent-filter>
+        </activity>
+
+    </application>
+
+</manifest>
